@@ -13,8 +13,8 @@ class MyDocument extends Document<Props> {
       <Html style={{ fontSize: '62.5%' }}>
         <Head>
           <meta name="theme-color" />
-          <meta name="keywords" content="scalio assignment" />
-          <meta name="description" content="scalio assignment" />
+          <meta name="keywords" content="sora union assignment" />
+          <meta name="description" content="sora union assignment" />
           <meta charSet="utf-8" />
         </Head>
         <body>
