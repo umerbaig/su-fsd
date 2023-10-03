@@ -1,6 +1,6 @@
 ## Description
 
-Scalio Assignment Web
+Sora Union Assignment Web
 
 ## Installation
 
